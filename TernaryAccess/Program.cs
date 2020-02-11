@@ -3,7 +3,7 @@
 namespace TernaryAccess
 {
     class Program {
-        static void Main(string[] args) {
+        static void Main(string[] args) { 
             Console.WriteLine($" The cube of 17 is {Program.Cubed(17)}");
             //          var message = Customer.PrintNextId();
             //          Console.WriteLine(message);
